@@ -1,1 +1,1 @@
-# Afropia.github.io
+The website for introducing afro intelligence
